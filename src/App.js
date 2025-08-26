@@ -3,8 +3,8 @@ import { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [inputUrl, setInputUrl] = useState('http://localhost:8000/index.php/auth/dashboard/testing125');
-  const [iframeUrl, setIframeUrl] = useState('http://localhost:8000/index.php/auth/dashboard/testing125');
+  const [inputUrl, setInputUrl] = useState('https://personal-app-ronald.vercel.app/#home');
+  const [iframeUrl, setIframeUrl] = useState('https://personal-app-ronald.vercel.app/#home');
 
   const handleSearch = () => {
     setIframeUrl(inputUrl);
