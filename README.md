@@ -13,6 +13,6 @@ A modern UI for embedding external pages via iframe dynamically. Supports real-t
 
 Here is the UI of this portfolio:
 
-![View](https://github.com/RonaldGustavo/embeded-iframe-react/blob/main/public/assets/image/ui.png)
+![View](https://github.com/RonaldGustavo/embeded-iframe-react/blob/main/public/assets/ui.png)
 
 > You can also view the live site [here](https://embeded-iframe-react.vercel.app/)
