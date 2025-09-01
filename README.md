@@ -1,6 +1,6 @@
-# 🌟 Welcome to embeded-iframe-dynamis!
+# ✨ Welcome to Embedded Dynamic Iframe!
 
-A lightweight and modern UI for embedding external pages via iframe dynamically. Supports real-time URL switching, display controls, stateful history, and basic security features (sandbox, origin allowlist). Perfect for internal dashboards, content previews, or integrating third-party tools.
+A modern UI for embedding external pages via iframe dynamically. Supports real-time URL switching and display controls.
 
 ## 🚀 Tech Stack Used
 
